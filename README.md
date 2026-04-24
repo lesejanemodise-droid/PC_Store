@@ -7,13 +7,11 @@ Import raw CSV data into a staging environment.
 
 Clean and standardize inconsistent source data.
 
-Design a Snowflake Schema for efficient analytics.
+Design a Snowflake Schema using draw.io.
 
-Build dimension and fact tables.
+Build dimension and fact tables using SQL.
 
 Load transformed data into the warehouse.
-
-Enable reporting and SQL-based analysis.
 
 # **Data Structure**
 Fact Table
