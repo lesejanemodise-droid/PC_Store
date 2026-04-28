@@ -33,4 +33,17 @@ DIM_DATE
 DIM_CHANNEL
 
 DIM_SALES_PERSON
+# **Tools Used**
+RAW DATA - it came as a CSV format
+
+SNOWFLAKE SCHEMA - This was designed using Draw.io tool 
+
+TABLE CREATIONS - SQL was a tool used to create table
+
+INSERT DATA - SQL was a tool used to insert data
+
+DELETING DATA IN THE TABLES - SQL was used a tool to delete data using truncate statement 
+
+Creating STORE PROCEDURE  -  SQL was a took used to create SP 
+
 
